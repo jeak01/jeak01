@@ -1,14 +1,14 @@
-<h1>An ��</h1>
+<h1>An 左安</h1>
 <p>Love sharing &amp; discussing product ideas . Latest: http://aistylebook.com</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img alt="An �� �� ASCII portrait and profile information" src="./assets/profile-light.svg" width="1200">
+  <img alt="An 左安 — ASCII portrait and profile information" src="./assets/profile-light.svg" width="1200">
 </picture>
 
 <details>
-<summary>Text version / ���ְ�</summary>
+<summary>Text version / 文字版</summary>
 
 ```text
                                                                             jeak01@github
